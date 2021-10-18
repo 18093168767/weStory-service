@@ -1,6 +1,6 @@
-com\springboot\docker\bean\User.class
 com\springboot\docker\controller\UserController.class
-com\springboot\docker\mapper\UserMapper.class
 com\springboot\docker\DockerApplication.class
 com\springboot\docker\service\UserService.class
 com\springboot\docker\serviceImpl\UserServiceImpl.class
+com\springboot\docker\bean\User.class
+com\springboot\docker\mapper\UserMapper.class
